@@ -1,2 +1,3 @@
-# gulp
-Gulp &amp; Pug for my projects
+# Gulp
+
+Gulp & Pug template for my projects
